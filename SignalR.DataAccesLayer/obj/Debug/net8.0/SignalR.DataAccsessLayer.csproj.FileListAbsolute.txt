@@ -1,0 +1,17 @@
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccsessLayer.deps.json
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccsessLayer.runtimeconfig.json
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccsessLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccsessLayer.pdb
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.EntityLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.EntityLayer.pdb
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.AssemblyInfoInputs.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.AssemblyInfo.cs
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR..5C4FF7FE.Up2Date
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\refint\SignalR.DataAccsessLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.pdb
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccsessLayer.genruntimeconfig.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\ref\SignalR.DataAccsessLayer.dll

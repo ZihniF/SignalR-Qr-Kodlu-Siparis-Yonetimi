@@ -1,0 +1,17 @@
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.AssemblyInfo.cs
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccesLayer.deps.json
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccesLayer.runtimeconfig.json
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccesLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.DataAccesLayer.pdb
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.EntityLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\bin\Debug\net8.0\SignalR.EntityLayer.pdb
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR..9BE21BEF.Up2Date
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\refint\SignalR.DataAccesLayer.dll
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.pdb
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\SignalR.DataAccesLayer.genruntimeconfig.cache
+C:\Users\Zg\source\repos\SignalRProject\SignalR.DataAccesLayer\obj\Debug\net8.0\ref\SignalR.DataAccesLayer.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zg\\source\\repos\\SignalRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E642DDB-F6ED-479F-8E19-425B14FD5CA8}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\zg\\source\\repos\\signalrproject\\signalrwebui\\views\\menutables\\tablelistbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E642DDB-F6ED-479F-8E19-425B14FD5CA8}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\menutables\\tablelistbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E642DDB-F6ED-479F-8E19-425B14FD5CA8}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\zg\\source\\repos\\signalrproject\\signalrwebui\\wwwroot\\ready-bootstrap-dashboard-master\\assets\\css\\ready.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E642DDB-F6ED-479F-8E19-425B14FD5CA8}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\wwwroot\\ready-bootstrap-dashboard-master\\assets\\css\\ready.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ready.css",
+              "DocumentMoniker": "C:\\Users\\Zg\\source\\repos\\SignalRProject\\SignalRWebUI\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css",
+              "RelativeDocumentMoniker": "SignalRWebUI\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css",
+              "ToolTip": "C:\\Users\\Zg\\source\\repos\\SignalRProject\\SignalRWebUI\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css",
+              "RelativeToolTip": "SignalRWebUI\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css",
+              "ViewState": "AgIAACsUAAAAAAAAAAAmwFYUAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T13:33:33.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableListByStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zg\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTables\\TableListByStatus.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\MenuTables\\TableListByStatus.cshtml",
+              "ToolTip": "C:\\Users\\Zg\\source\\repos\\SignalRProject\\SignalRWebUI\\Views\\MenuTables\\TableListByStatus.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\MenuTables\\TableListByStatus.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:41:48.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
